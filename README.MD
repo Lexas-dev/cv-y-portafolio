@@ -4,7 +4,7 @@ Proyecto final para el módulo de HTML, CSS y Git del Bootcamp Full Stack de Des
 
 ## Ver el Proyecto en Vivo
 Puedes visitar mi portafolio aquí:
-🔗 **[https://lexas-dev.github.io/cv-y-portafolio/](https://lexas-dev.github.io/cv-y-portafolio/)**
+**[https://lexas-dev.github.io/cv-y-portafolio/](https://lexas-dev.github.io/cv-y-portafolio/)**
 
 ## Tecnologías Usadas
 * **HTML5** (Semántico)
